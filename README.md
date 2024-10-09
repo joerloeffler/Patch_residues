@@ -16,6 +16,7 @@ The script requires the following Python packages:
     pip install pandas numpy matplotlib seaborn biopython
 
 The script accepts two command-line arguments:
+    python patch_localizer.py --pdb <PDB_FILE> --ply <PLY_FILE>
 
     --pdb: Path to the PDB file that will be updated with cluster information.
     --ply: Path to the PLY file containing cluster data.
