@@ -13,7 +13,7 @@ The script requires the following Python packages:
     argparse
     biopython
 
-pip install pandas numpy matplotlib seaborn biopython
+    pip install pandas numpy matplotlib seaborn biopython
 
 The script accepts two command-line arguments:
 
